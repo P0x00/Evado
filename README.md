@@ -5,7 +5,7 @@ CTF Tools for Simple AV Evasion
 Simple ShellCode Xor (NET Core 6.0)
 
 ### SimpleLoader
-Simple ShellCode Loader (NET Core 6.0)
+Simple Xor ShellCode Loader (NET Core 6.0)
 
 ### UniversalisRev
 Simple TcpReverser (NET Core 6.0) ***compatible with cross-compilation***. <br> 
