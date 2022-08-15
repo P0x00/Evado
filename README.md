@@ -15,7 +15,7 @@ Compile it for the operating system you need. <br> Precompiled binaries are insi
 <br><br>
 Usage: <br>
 Program will try to connect back based on its name.
-You can specify the binary or the process to execute and send over Tcp by changing the last part of the name.<br>
+You can specify the binary or the command to execute and send over Tcp by changing the last part of the name.<br>
 <br> Examples: <br>
 `UniversalisRev_127.0.0.1_443_cmd.exe` <br>
 `UniversalisRev_127.0.0.1_443_-bin-bash`
