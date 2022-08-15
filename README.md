@@ -11,7 +11,7 @@ Simple ShellCode Loader (NET Core 6.0)
 Simple TcpReverser (NET Core 6.0) ***compatible with cross-compilation***. <br> 
 Inside there are two Publishing profiles (Windows x64 and Linux x64). <br> Should also be compatible with MacOS and ARM architecture (Not MacOS ARM).
 <br>
-Compile it for the operating system you need. <br> Precompiled binaries are inside.
+Compile it for the operating system you need.
 <br><br>
 Usage: <br>
 Program will try to connect back based on its name.
