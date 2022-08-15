@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOTKunOY1xeCZ4cSgaB8SO734aF5GmOG/h3uEgxvIzFlb4Thx2eVO6ZE5pSKlZg+m8bD1U5kIArp49rYEt7c0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\P0\\Desktop\\Dev\\Maldev\\Projects\\Start\\UniversalisRev\\UniversalisRev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.4\\microsoft.netcore.app.runtime.linux-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.4\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.4\\microsoft.netcore.app.host.linux-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

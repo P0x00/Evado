@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9WIJ31221CLfecto7shvxXaGMtP3LzKgI9nApFWVz+A2d93xhgrvWF8ui1P9UW1cS/aZaVVF9pCVvGzQfUkZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\P0\\Desktop\\Dev\\Maldev\\Projects\\Start\\UniversalisRev\\UniversalisRev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.4\\microsoft.netcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.4\\microsoft.aspnetcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.4\\microsoft.netcore.app.crossgen2.win-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
