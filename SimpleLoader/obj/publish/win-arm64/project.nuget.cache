@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6wCp+G9CPCHmpPxtQ4kjO4Bn3ejlSmfwwKfSiR3yqpOT4+IkYRW91/428A3+AyGfxefOEfBSW/Y/Xbnf41zWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\P0\\Desktop\\Dev\\Maldev\\Projects\\Start\\SimpleLoader\\SimpleLoader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.4\\microsoft.netcore.app.runtime.win-arm64.6.0.4.nupkg.sha512",
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.4\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.4.nupkg.sha512",
+    "C:\\Users\\P0\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.4\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
