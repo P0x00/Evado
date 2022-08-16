@@ -18,4 +18,5 @@ Program will try to connect back based on its name.
 You can specify the binary or the command to execute and send over Tcp by changing the last part of the name.<br>
 <br> Examples: <br>
 `UniversalisRev_127.0.0.1_443_cmd.exe` <br>
+`UniversalisRev_127.0.0.1_443_whoami.exe` <br>
 `UniversalisRev_127.0.0.1_443_-bin-bash`
