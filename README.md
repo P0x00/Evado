@@ -7,6 +7,12 @@ Simple ShellCode Xor (NET Core 6.0)
 ### SimpleLoader
 Simple Xor ShellCode Loader (NET Core 6.0)
 
+### PascalXORInject
+Simple Xor ShellCode Injector (Pascal)
+Use Lazarus to compile.
+Add $00 at the end of your shellcode.
+Shellcode needs to be XORED.
+
 ### UniversalisRev
 Simple TcpReverser (NET Core 6.0) ***compatible with cross-compilation***. <br> 
 Inside there are two Publishing profiles (Windows x64 and Linux x64). <br> Should also be compatible with MacOS and ARM architecture (Not MacOS ARM).
